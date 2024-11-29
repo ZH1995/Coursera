@@ -2,6 +2,9 @@
 
 《Programming for Everybody (Getting Started with Python)》
 
+推荐指数：⭐️⭐️⭐️
+整体评价：都是入门所需掌握的基础知识，但是某些知识点新手未必能理解。
+
 Completed by He Zhang
 November 29, 2024
 
